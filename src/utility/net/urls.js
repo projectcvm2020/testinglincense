@@ -1,8 +1,7 @@
 import axios from 'axios';
-//export const ipProd = "https://www.valehub.com/api2/";
-export const ipProd = 'https://api.carnetizacioncvm.com/license/'
-//export const ipProd = 'https://valehub.com/apiv1/v1/index.php/'
-//export const ipProd = 'http://valehub.com/apirecovery/public/index.php/'
+
+export const ipProd = 'https://api.supportpalumbi.site/license/'
+
 const ipDev = "";
 
 const mode = "prod";
