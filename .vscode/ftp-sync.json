@@ -1,0 +1,27 @@
+{
+    "remotePath": "./var/www/valehub.com/public_html/api2/app",
+    "host": "www.valehub.com",
+    "username": "ftpsupport",
+    "password": "16944615*/",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}
